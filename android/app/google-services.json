@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1040566614538",
+    "project_id": "first-app-ced01",
+    "storage_bucket": "first-app-ced01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040566614538:android:60bb5bef3359e61ea2bdf3",
+        "android_client_info": {
+          "package_name": "com.android.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu3RcX1pvLAVPtqtlZMKTfm81tdX93CZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040566614538:android:b894e0fb69e7f16ba2bdf3",
+        "android_client_info": {
+          "package_name": "com.example.se7etyy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu3RcX1pvLAVPtqtlZMKTfm81tdX93CZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
